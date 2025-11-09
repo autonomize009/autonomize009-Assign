@@ -1,0 +1,1 @@
+This repository contains the design assignment done using STM32 Nucleo-F401RE microcontroller. 

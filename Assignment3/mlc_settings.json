@@ -1,0 +1,16 @@
+{
+    "decision_tree_count": "1",
+    "dectrees": null,
+    "features": [
+    ],
+    "features_output_filename": "C:/Users/dahalc1/Desktop/2nd_sem Fall 2025/Embedded Security and Machine Learing [ECG 677]/Assignment 3/ML Configuration 2/features.arff",
+    "filters": [
+    ],
+    "input_type": "",
+    "json_format": {
+        "type": "mlc_settings",
+        "version": "1.0"
+    },
+    "mlc_odr": "30 Hz",
+    "name": "LSM6DSV16X"
+}
