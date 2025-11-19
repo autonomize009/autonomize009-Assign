@@ -1,0 +1,15 @@
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:85:9:BSP_GetVersion	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:97:9:BSP_LED_Init	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:112:9:BSP_LED_DeInit	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:135:9:BSP_LED_On	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:152:9:BSP_LED_Off	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:169:9:BSP_LED_Toggle	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:186:9:BSP_LED_GetState	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:194:13:LED_USER_GPIO_Init	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:225:9:BSP_COM_Init	3
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:263:9:BSP_COM_DeInit	3
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:300:26:MX_USART2_UART_Init	2
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:402:9:BSP_COM_SelectLogPort	2
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:448:5:__io_putchar	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:462:13:USART2_MspInit	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/stm32f4xx_nucleo.c:511:13:USART2_MspDeInit	1

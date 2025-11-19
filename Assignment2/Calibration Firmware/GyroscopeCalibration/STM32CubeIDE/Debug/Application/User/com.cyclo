@@ -1,0 +1,5 @@
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/com.c:48:9:UART_ReceivedMSG	10
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/com.c:142:6:UART_SendMsg	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/com.c:160:6:UART_StartReceiveMsg	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/com.c:179:17:Get_DMA_Flag_Status	52
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/com.c:189:17:Get_DMA_Counter	1

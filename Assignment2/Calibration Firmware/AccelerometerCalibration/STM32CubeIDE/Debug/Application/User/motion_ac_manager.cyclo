@@ -1,0 +1,8 @@
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/motion_ac_manager.c:46:6:MotionAC_manager_init	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/motion_ac_manager.c:57:6:MotionAC_manager_update	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/motion_ac_manager.c:67:6:MotionAC_manager_get_params	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/motion_ac_manager.c:78:6:MotionAC_manager_get_version	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/motion_ac_manager.c:89:6:MotionAC_manager_compensate	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/motion_ac_manager.c:120:9:acc_bias_to_mg	2
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/motion_ac_manager.c:150:6:MotionAC_LoadCalFromNVM	1
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/AccelerometerCalibration/Src/motion_ac_manager.c:163:6:MotionAC_SaveCalInNVM	1

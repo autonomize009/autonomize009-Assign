@@ -1,0 +1,5 @@
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/com.c:48:9:UART_ReceivedMSG	48	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/com.c:142:6:UART_SendMsg	24	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/com.c:160:6:UART_StartReceiveMsg	8	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/com.c:179:17:Get_DMA_Flag_Status	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/com.c:189:17:Get_DMA_Counter	16	static

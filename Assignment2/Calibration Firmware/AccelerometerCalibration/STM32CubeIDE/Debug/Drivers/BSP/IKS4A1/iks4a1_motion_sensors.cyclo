@@ -1,0 +1,17 @@
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:242:9:IKS4A1_MOTION_SENSOR_Init	30
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1282:9:IKS4A1_MOTION_SENSOR_DeInit	3
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1308:9:IKS4A1_MOTION_SENSOR_GetCapabilities	3
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1334:9:IKS4A1_MOTION_SENSOR_ReadID	3
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1363:9:IKS4A1_MOTION_SENSOR_Enable	4
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1402:9:IKS4A1_MOTION_SENSOR_Disable	4
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1442:9:IKS4A1_MOTION_SENSOR_GetAxes	4
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1482:9:IKS4A1_MOTION_SENSOR_GetAxesRaw	4
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1522:9:IKS4A1_MOTION_SENSOR_GetSensitivity	4
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1563:9:IKS4A1_MOTION_SENSOR_GetOutputDataRate	4
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1603:9:IKS4A1_MOTION_SENSOR_GetFullScale	4
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1644:9:IKS4A1_MOTION_SENSOR_SetOutputDataRate	4
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1684:9:IKS4A1_MOTION_SENSOR_SetFullScale	4
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:1898:16:LIS2MDL_0_Probe	12
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:3950:16:LSM6DSV16X_0_Probe	15
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:4395:16:LIS2DUXS12_0_Probe	14
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Drivers/BSP/IKS4A1/iks4a1_motion_sensors.c:4567:16:LSM6DSO16IS_0_Probe	15

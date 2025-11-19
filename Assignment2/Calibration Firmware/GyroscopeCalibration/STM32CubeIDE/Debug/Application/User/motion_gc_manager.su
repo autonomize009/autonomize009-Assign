@@ -1,0 +1,10 @@
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/motion_gc_manager.c:38:6:MotionGC_manager_init	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/motion_gc_manager.c:48:6:MotionGC_manager_get_knobs	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/motion_gc_manager.c:58:6:MotionGC_manager_set_knobs	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/motion_gc_manager.c:70:6:MotionGC_manager_update	24	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/motion_gc_manager.c:80:6:MotionGC_manager_get_params	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/motion_gc_manager.c:90:6:MotionGC_manager_set_params	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/motion_gc_manager.c:100:6:MotionGC_manager_set_frequency	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/motion_gc_manager.c:111:6:MotionGC_manager_get_version	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/motion_gc_manager.c:122:6:MotionGC_manager_compensate	40	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/GyroscopeCalibration/Src/motion_gc_manager.c:133:9:gyro_bias_to_mdps	24	static

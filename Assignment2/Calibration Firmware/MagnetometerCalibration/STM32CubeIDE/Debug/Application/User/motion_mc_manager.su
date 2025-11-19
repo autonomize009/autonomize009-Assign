@@ -1,0 +1,8 @@
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/motion_mc_manager.c:49:6:MotionMC_manager_init	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/motion_mc_manager.c:59:6:MotionMC_manager_update	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/motion_mc_manager.c:69:6:MotionMC_manager_get_params	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/motion_mc_manager.c:80:6:MotionMC_manager_get_version	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/motion_mc_manager.c:91:6:MotionMC_manager_compensate	104	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/motion_mc_manager.c:126:9:mag_val_to_mGauss	24	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/motion_mc_manager.c:151:6:MotionMC_LoadCalFromNVM	16	static
+C:/Users/dahalc1/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-MEMS1/11.3.0/Projects/NUCLEO-F401RE/Applications/IKS4A1/MagnetometerCalibration/Src/motion_mc_manager.c:165:6:MotionMC_SaveCalInNVM	16	static
